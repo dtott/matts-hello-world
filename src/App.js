@@ -8,6 +8,10 @@ function App() {
 
   // this is a comment
 
+  // commit two
+
+  // comment 3
+
   return (
     <div className="App">
       <ExampleComponent />
